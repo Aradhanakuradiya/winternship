@@ -112,6 +112,10 @@ npm run dev
 - **Problem Statement:** WIN12 – Write from your heart
 ## 👥 Team Members
 
+### 👨‍💻 Aradhana Kuradiya  
+- **LinkedIn:** [https://www.linkedin.com/in/aradhana-kuradiya-75b40627a/](https://www.linkedin.com/in/aradhana-kuradiya-75b40627a/)
+- **GitHub:** [https://github.com/your-github-id ](https://github.com/Aradhanakuradiya)
+
 ### 👨‍💻 Harshwardhan Ahirwar  
 - **LinkedIn:** [https://www.linkedin.com/in/harshwardhanahirwar/ ](https://www.linkedin.com/in/harshwardhanahirwar/ )
 - **GitHub:** [https://github.com/harshwardhanahirwar/](https://github.com/harshwardhanahirwar/)  
@@ -119,11 +123,6 @@ npm run dev
 ### 👩‍💻 Ajay Singh 
 - **LinkedIn:** [https://www.linkedin.com/in/Ajay5ingh](https://www.linkedin.com/in/Ajay5ingh)
 - **GitHub:** [https://github.com/Ajayy-Singh](https://github.com/Ajayy-Singh)  
-
-### 👨‍💻 Aradhana Kuradiya  
-- **LinkedIn:** [https://www.linkedin.com/in/aradhana-kuradiya-75b40627a/](https://www.linkedin.com/in/aradhana-kuradiya-75b40627a/)
-- **GitHub:** [https://github.com/your-github-id ](https://github.com/Aradhanakuradiya)
-
 
 In the bustling lanes of Hyderabad's old city near Charminar, a passionate group of educators and mentors were determined to help students write with focus and honesty — whether for Telugu essays, English answers, or long responses in competitive exams.
 Suhani Pal, the gentle yet firm language teacher, often shared her concern:
